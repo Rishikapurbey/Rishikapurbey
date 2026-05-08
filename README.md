@@ -23,16 +23,6 @@
 
 ---
 
-### 💬 Ask Me About
-- debugging nightmares  
-
----
-
-### 😄 Pronouns
-- She/Her  
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages & Markup**
