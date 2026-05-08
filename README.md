@@ -65,12 +65,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishikapurbey&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&hide=stars&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikapurbey&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishikapurbey&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rishikapurbey&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" width="40%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishikapurbey&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Rishikapurbey&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -90,4 +90,3 @@ I'm always open to learning, collaborating, or just having a good tech chat!
 <p align="center">
   <em>Thanks for stopping by — now go touch some grass, or don't. I'll be here debugging either way 🌿</em>
 </p>
-
