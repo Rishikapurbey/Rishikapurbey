@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Rishika Purbey 👋</h1>
-
 <p align="center">
   <em>Final Year B.Tech CSE Student @ Siliguri Institute of Technology</em>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rishika-purbey-464a4025b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -17,12 +15,11 @@
 ---
 
 ### 👩‍💻 About Me
-
 - 🎓 Final year **B.Tech CSE** student at **Siliguri Institute of Technology**
 - 💻 Passionate about **Web Development** and building clean, functional UIs
 - 🚀 Currently diving deep into the **MERN Stack**
-- 🌙 Peak productivity kicks in after 11 PM — that’s when things finally start making sense
-- ♟️ Offline, you’ll find me at a chess board or smashing shuttle on the badminton court  
+- 🌙 Peak productivity kicks in after 11 PM — that's when things finally start making sense
+- ♟️ Offline, you'll find me at a chess board or smashing shuttle on the badminton court  
 
 ---
 
@@ -68,14 +65,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishikapurbey&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&hide=stars" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikapurbey&layout=compact&hide_border=true&title_color=6366f1" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishikapurbey&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&hide=stars&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikapurbey&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" width="40%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rishikapurbey&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="60%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishikapurbey&theme=tokyo-night&hide_border=true&color=6366f1&line=6366f1&point=ffffff" width="90%" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 📬 Let's Connect
-
 I'm always open to learning, collaborating, or just having a good tech chat!
 
 - 📧 [rishikapurbey712@gmail.com](mailto:rishikapurbey712@gmail.com)
@@ -86,3 +90,4 @@ I'm always open to learning, collaborating, or just having a good tech chat!
 <p align="center">
   <em>Thanks for stopping by — now go touch some grass, or don't. I'll be here debugging either way 🌿</em>
 </p>
+
