@@ -1,25 +1,18 @@
-<h1 align="center">Hi there, I'm Rishika Purbey 👋</h1>
+<h1 align="center">Hello! I'm Rishika Purbey</h1>
+
 <p align="center">
   <em>Final Year B.Tech CSE Student @ Siliguri Institute of Technology</em>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishika-purbey-464a4025b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rishikapurbey712@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Rishikapurbey&style=flat&color=6366f1&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 Final year **B.Tech CSE** student at **Siliguri Institute of Technology**
-- 💻 Passionate about **Web Development** and building clean, functional UIs
-- 🚀 Currently diving deep into the **MERN Stack**
-- 🌙 Peak productivity kicks in after 11 PM — that's when things finally start making sense
-- ♟️ Offline, you'll find me at a chess board or smashing shuttle on the badminton court  
+- I'm a final year B.Tech CSE student at Siliguri Institute of Technology.
+- I'm a MERN Stack Developer.
+- Actively contributing to open source — GSSoC '26 & NSoC '26.
+- Looking for **Software Engineering Intern** roles.
+- Off-screen, I play chess and badminton.
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rishikapurbey&style=flat&color=6366f1&label=Profile+Views)
 
 ---
 
@@ -70,6 +63,7 @@
 ---
 
 ### 📬 Let's Connect
+
 I'm always open to learning, collaborating, or just having a good tech chat!
 
 - 📧 [rishikapurbey712@gmail.com](mailto:rishikapurbey712@gmail.com)
