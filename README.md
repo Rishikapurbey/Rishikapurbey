@@ -1,15 +1,14 @@
 <h1 align="center">Hello! I'm Rishika Purbey</h1>
 
 <p align="center">
-  <em>Final Year B.Tech CSE Student @ Siliguri Institute of Technology</em>
+  <em>Full Stack Developer @ Ralakde Automations | Final Year B.Tech CSE Student @ Siliguri Institute of Technology</em>
 </p>
 
 ---
 
 - I'm a final year B.Tech CSE student at Siliguri Institute of Technology.
-- I'm a MERN Stack Developer.
-- Actively contributing to open source — GSSoC '26 & NSoC '26.
-- Looking for **Software Engineering Intern** roles.
+- I'm a **Full Stack Developer at Ralakde Automations**, converted to full-time after a 3-month internship (Jul 2026 – Oct 2026).
+- Completed **NSoC '26** (ranked **49th of 1,139** contributors) and **GSSoC '26**.
 - Off-screen, I play chess and badminton.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishikapurbey&style=flat&color=6366f1&label=Profile+Views)
@@ -29,9 +28,6 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-
-**Currently Learning**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -48,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishikapurbey&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rishikapurbey&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" width="40%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishikapurbey&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishikapurbey&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1" width="40%" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -57,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishikapurbey&theme=tokyo-night&hide_border=true&color=6366f1&line=6366f1&point=ffffff" width="90%" alt="Contribution Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=Rishikapurbey&theme=tokyo-night&hide_border=true&color=6366f1&line=6366f1&point=ffffff" width="90%" alt="Contribution Graph" />
 </p>
 
 ---
