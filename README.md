@@ -1,15 +1,17 @@
 <h1 align="center">Hello! I'm Rishika Purbey</h1>
 
 <p align="center">
-  <em>Full Stack Developer @ Ralakde Automations | Final Year B.Tech CSE Student @ Siliguri Institute of Technology</em>
+  <em>Full Stack Developer @ Ralakde Automations | B.Tech CSE '26, Siliguri Institute of Technology</em>
 </p>
 
 ---
 
-- I'm a final year B.Tech CSE student at Siliguri Institute of Technology.
-- I'm a **Full Stack Developer at Ralakde Automations**, converted to full-time after a 3-month internship (Jul 2026 – Oct 2026).
-- Completed **NSoC '26** (ranked **49th of 1,139** contributors) and **GSSoC '26**.
-- Off-screen, I play chess and badminton.
+- I'm a **Full Stack Developer at Ralakde Automations**.
+- B.Tech CSE graduate (2026), Siliguri Institute of Technology.
+- Open source: **NSoC '26** (Rank 49 / 1,139) · **GSSoC '26**.
+- Practicing **DSA** regularly.
+- **Problem solver** · **Adaptable**.
+- Off-screen: chess and badminton.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishikapurbey&style=flat&color=6366f1&label=Profile+Views)
 
@@ -22,22 +24,33 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ---
 
 ### 🚀 Projects
 
-#### 🎬 Showtime
-> A web application built with HTML, CSS, JavaScript and React.
+#### 🎬 ShowTime
+> Movie discovery app with real-time search and a personal watchlist. Built with React and the OMDb API.
+>
+> [Live Demo](https://harmonious-maamoul-e4854c.netlify.app) · [Source Code](https://github.com/Rishikapurbey/ShowTime)
+
+#### 💰 Money Mitra
+> Personal finance app: expense tracking, budgets, bill splitting and investing basics. Built with React, TypeScript, Node.js and PostgreSQL.
+>
+> [Live Demo](https://money-mitra-three.vercel.app) · [Source Code](https://github.com/Rishikapurbey/Money-Mitra)
 
 ---
 
