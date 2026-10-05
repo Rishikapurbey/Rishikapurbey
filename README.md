@@ -1,12 +1,13 @@
 <h1 align="center">Hello! I'm Rishika Purbey</h1>
 
 <p align="center">
-  <em>Full Stack Developer @ Ralakde Automations | B.Tech CSE '26, Siliguri Institute of Technology</em>
+  <em>SDE 1 @ Ralakde Automations | B.Tech CSE '26, Siliguri Institute of Technology</em>
 </p>
 
 ---
 
-- I'm a **Full Stack Developer at Ralakde Automations**.
+- **SDE 1** @ Ralakde Automations.
+- Former **Full Stack Developer Intern** @ Ralakde Automations (Jul – Oct 2026).
 - B.Tech CSE graduate (2026), Siliguri Institute of Technology.
 - Open source: **NSoC '26** (Rank 49 / 1,139) · **GSSoC '26**.
 - Practicing **DSA** regularly.
