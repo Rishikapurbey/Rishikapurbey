@@ -1,20 +1,58 @@
 <h1 align="center">Hello! I'm Rishika Purbey</h1>
 
 <p align="center">
-  <em>SDE 1 @ Ralakde Automations | B.Tech CSE '26, Siliguri Institute of Technology</em>
+  <em>SDE I @ Ralakde Enterprise Pvt. Ltd. | B.Tech CSE '26, Siliguri Institute of Technology</em>
 </p>
 
 ---
 
-- **SDE 1** @ Ralakde Automations.
-- Former **Full Stack Developer Intern** @ Ralakde Automations (Jul – Oct 2026).
+- **SDE I** @ Ralakde Enterprise Pvt. Ltd.
 - B.Tech CSE graduate (2026), Siliguri Institute of Technology.
-- Open source: **NSoC '26** (Rank 49 / 1,139) · **GSSoC '26**.
-- Practicing **DSA** regularly.
+- Strong foundation in **Data Structures & Algorithms**.
 - **Problem solver** · **Adaptable**.
 - Off-screen: chess and badminton.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rishikapurbey&style=flat&color=6366f1&label=Profile+Views)
+
+---
+
+### 💼 Experience
+
+**➤ SDE I | Ralakde Enterprise Pvt. Ltd.**
+<br>Oct 2026 – Present
+
+**➤ Full Stack Developer Intern | Ralakde Enterprise Pvt. Ltd.**
+<br>Jul 2026 – Oct 2026
+
+---
+
+### 🏆 Achievements
+
+- **NSoC '26**: Rank 49 / 1,139 contributors.
+- **GSSoC '26**: Top 3% (Rank 1,144 / 47,923).
+- **37 merged PRs** across 12 open source projects.
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tech | Links |
+|---|---|---|---|
+| 💰 **Money Mitra** | Personal finance app: tracking, budgets, bill splitting | React, TypeScript, Node.js, PostgreSQL | [Live](https://money-mitra-three.vercel.app) · [Code](https://github.com/Rishikapurbey/Money-Mitra) |
+| 🎬 **ShowTime** | Movie discovery app with search and watchlist | React, OMDb API | [Live](https://harmonious-maamoul-e4854c.netlify.app) · [Code](https://github.com/Rishikapurbey/ShowTime) |
+
+---
+
+### 🌍 Open Source
+
+| Project | Merged PRs |
+|---|---|
+| [Vector Social Media](https://github.com/Shivayan09/Vector-social-media/pulls?q=is%3Apr+author%3ARishikapurbey+is%3Amerged) | 14 |
+| [RankerHub](https://github.com/indresh404/RankerHub/pulls?q=is%3Apr+author%3ARishikapurbey+is%3Amerged) | 9 |
+| [LinkID](https://github.com/vishnukothakapu/linkid/pulls?q=is%3Apr+author%3ARishikapurbey+is%3Amerged) | 5 |
+| [Weather](https://github.com/aditya-ai00/weather/pulls?q=is%3Apr+author%3ARishikapurbey+is%3Amerged) | 2 |
+| [RxRader](https://github.com/somsu123/RxRader/pulls?q=is%3Apr+author%3ARishikapurbey+is%3Amerged) | 2 |
+| [+ 7 more](https://github.com/pulls?q=is%3Apr+author%3ARishikapurbey+is%3Amerged) | 7 |
 
 ---
 
@@ -41,20 +79,6 @@
 
 ---
 
-### 🚀 Projects
-
-#### 🎬 ShowTime
-> Movie discovery app with real-time search and a personal watchlist. Built with React and the OMDb API.
->
-> [Live Demo](https://harmonious-maamoul-e4854c.netlify.app) · [Source Code](https://github.com/Rishikapurbey/ShowTime)
-
-#### 💰 Money Mitra
-> Personal finance app: expense tracking, budgets, bill splitting and investing basics. Built with React, TypeScript, Node.js and PostgreSQL.
->
-> [Live Demo](https://money-mitra-three.vercel.app) · [Source Code](https://github.com/Rishikapurbey/Money-Mitra)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -74,10 +98,8 @@
 
 ### 📬 Let's Connect
 
-I'm always open to learning, collaborating, or just having a good tech chat!
-
-- 📧 [rishikapurbey712@gmail.com](mailto:rishikapurbey712@gmail.com)
-- 💼 [LinkedIn — Rishika Purbey](https://www.linkedin.com/in/rishika-purbey-464a4025b)
+<a href="https://www.linkedin.com/in/rishika-purbey-464a4025b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:rishikapurbey712@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 ---
 
