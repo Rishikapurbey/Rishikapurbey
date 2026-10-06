@@ -39,7 +39,7 @@
 | Project | Description | Tech | Links |
 |---|---|---|---|
 | 💰 **Money Mitra** | Personal finance app: tracking, budgets, bill splitting | React, TypeScript, Node.js, PostgreSQL | [Live](https://money-mitra-three.vercel.app) · [Code](https://github.com/Rishikapurbey/Money-Mitra) |
-| 🎬 **ShowTime** | Movie discovery app with search and watchlist | React, OMDb API | [Live](https://harmonious-maamoul-e4854c.netlify.app) · [Code](https://github.com/Rishikapurbey/ShowTime) |
+| 🎬 **ShowTime** | Movie discovery app: synced watchlist, ratings and stats, shareable public lists | React, Firebase, OMDb API | [Live](https://show-time-chi.vercel.app) · [Code](https://github.com/Rishikapurbey/ShowTime) |
 
 ---
 
@@ -74,6 +74,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
