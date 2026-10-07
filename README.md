@@ -30,7 +30,7 @@
 
 - **NSoC '26**: Rank 49 / 1,139 contributors.
 - **GSSoC '26**: Top 3% (Rank 1,144 / 47,923).
-- **37 merged PRs** across 12 open source projects.
+- **38 merged PRs** across 12 open source projects.
 
 ---
 
