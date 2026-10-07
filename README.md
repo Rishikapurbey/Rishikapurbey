@@ -1,12 +1,12 @@
 <h1 align="center">Hello! I'm Rishika Purbey</h1>
 
 <p align="center">
-  <em>SDE @ Ralakde Enterprise Pvt. Ltd. | B.Tech CSE '26, Siliguri Institute of Technology</em>
+  <em>SDE @ Ralakde Enterprises Pvt. Ltd. | B.Tech CSE '26, Siliguri Institute of Technology</em>
 </p>
 
 ---
 
-- **SDE** @ Ralakde Enterprise Pvt. Ltd.
+- **SDE** @ Ralakde Enterprises Pvt. Ltd.
 - B.Tech CSE graduate (2026), Siliguri Institute of Technology.
 - Strong foundation in **Data Structures & Algorithms**.
 - **Problem solver** · **Adaptable**.
@@ -18,10 +18,10 @@
 
 ### 💼 Experience
 
-**➤ SDE | Ralakde Enterprise Pvt. Ltd.**
+**➤ SDE | Ralakde Enterprises Pvt. Ltd.**
 <br>Oct 2026 – Present
 
-**➤ Full Stack Developer Intern | Ralakde Enterprise Pvt. Ltd.**
+**➤ Full Stack Developer Intern | Ralakde Enterprises Pvt. Ltd.**
 <br>Jul 2026 – Oct 2026
 
 ---
